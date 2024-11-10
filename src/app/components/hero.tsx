@@ -24,7 +24,7 @@ export default function Hero() {
         <div className="left">
           Hi! <br />
           <span ref={el} />
-          <p>Bridging the gap between mechanical innovation and digital solutions, a Mechatronics Engineer with a passion for crafting engaging, functional websites</p>
+          <p>Bridging the gap between mechanical innovation and digital solutions&lsquo; a Mechatronics Engineer with a passion for crafting engaging&lsquo; functional websites</p>
         </div>
         <div className="right">
           <Image src="/dev.svg" alt="" />
