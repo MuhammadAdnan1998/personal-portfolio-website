@@ -1,4 +1,5 @@
 "use client"
+import Image from 'next/image';
 import React, { useRef, useEffect } from 'react';
 import Typed from 'typed.js';
 
@@ -26,7 +27,7 @@ export default function Hero() {
           <p>Bridging the gap between mechanical innovation and digital solutions, a Mechatronics Engineer with a passion for crafting engaging, functional websites</p>
         </div>
         <div className="right">
-          <img src="/dev.svg" alt="" />
+          <Image src="/dev.svg" alt="" />
         </div>
       </div>
     </div>
