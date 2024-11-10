@@ -23,9 +23,9 @@ export default function page() {
           </li>
         </ol>
         <br />
-        I balance these endeavors with a focus on continuous learning, project management, and leadership development, aiming to eventually specialize in cloud-applied generative AI engineering.<br />
+        <p>I balance these endeavors with a focus on continuous learning, project management, and leadership development, aiming to eventually specialize in cloud-applied generative AI engineering.</p><br />
 
-        <strong>Contact Me:</strong> For professional inquiries, you can reach out through the contact page on my [personal portfolio](#) to learn more about my work and projects.
+        <p><strong>Contact Me:</strong> For professional inquiries, you can reach out through the contact page on my personal portfolio to learn more about my work and projects.</p>
       </div>
     </div>
   );

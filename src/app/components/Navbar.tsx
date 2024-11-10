@@ -21,10 +21,10 @@ export default function Navbar() {
       {isSidebarOpen && (
         <div className="sidebar">
           <div className="close-sign" onClick={toggleSidebar}>×</div>
-          <a href="/">Home</a>
-          <a href="/projects">Projects</a>
-          <a href="/about">About</a>
-          <a href="/contact">Contact</a>
+          <Link href="/">Home</Link>
+          <Link href="/projects">Projects</Link>
+          <Link href="/about">About</Link>
+          <Link href="/contact">Contact</Link>
         </div>
       )}
 
