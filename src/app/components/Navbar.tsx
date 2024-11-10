@@ -29,7 +29,7 @@ export default function Navbar() {
       )}
 
       <div className="mail">
-        <a href="mailto:abdulrehan0317@gmail.com">muhammad.adnan@devtodeploy.co</a>
+        <a href="mailto:muhammad.adnan@devtodeploy.co">muhammad.adnan@devtodeploy.co</a>
       </div>
 
       {/* Hide this full navbar on mobile */}
