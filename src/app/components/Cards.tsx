@@ -8,7 +8,7 @@ export default function Card() {
         <Image src="/laptop.jpg" alt=""/>
       <div className="title">Heading</div>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit&lsquo; animi.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit&lsquo; animi
       </p>
       <Link className="link" href={''}>VIEW MORE</Link>
     </div>
