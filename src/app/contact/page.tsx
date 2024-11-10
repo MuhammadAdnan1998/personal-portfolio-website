@@ -11,7 +11,7 @@ export default function page() {
         <ol>
           <li><strong> Web Development:</strong> I&apos;m actively developing skills in front-end and back-end technologies, including React.js, Next.js, and Firebase. My GitHub projects, such as the car rental website and a collection of HTML/CSS projects, showcase my focus on enhancing web design, responsive layouts, and UI/UX.
           </li>
-          <li><strong> Hackathon Participation:</strong> I &apos; m currently taking part in a hackathon, working on an Interactive Resume Builder using TypeScript, with a goal to make it dynamic, editable, and shareable online.
+          <li><strong> Hackathon Participation:</strong> I&apos; m currently taking part in a hackathon, working on an Interactive Resume Builder using TypeScript, with a goal to make it dynamic, editable, and shareable online.
           </li>
           <li><strong>Engineering:</strong> With experience in instrumentation and field services, I currently work as a Senior Field Services Engineer. I&apos;ve previously been responsible for plant maintenance and operations, specifically in SCADA systems.
           </li>
